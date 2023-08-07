@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7749a3b6ae309adf9bb26d90fe6a2d31c4e1600692191e74dcb7ba33ad5ffba3"
+build_start_time: [1686812882, 54972000]
+build_end_time: [1686812882, 111648000]
+inputs:
+  "/Users/irem/alisveris_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1686812833, 458527427]
+  "/Users/irem/alisveris_app/macos/Runner/AppDelegate.swift": !private [1666765928, 0]
+  "/Users/irem/alisveris_app/macos/Runner/MainFlutterWindow.swift": !private [1666765928, 0]
